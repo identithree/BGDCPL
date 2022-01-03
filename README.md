@@ -1,6 +1,9 @@
 # BGDCPL
 The "Be gay, do crime" Public License
 
+## This repository has moved
+This repository, and all later updates to this license will happen on [GitLab](https://gitlab.com/Identithree/BGDCPL)
+
 ## Legal disclaimer
 This wont hold up in court, if you thought it would you are an idiot lol  
 If you do take someone to court using this, I will realign all your bones on the same Y axis (FTR this is a joke, just like this license)
